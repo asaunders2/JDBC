@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 31 14:05:39 CDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (Unversioned directory): instance a816c00e-0169-d524-9af2-00000e619148 
+on database directory C:\Users\Aaron\Desktop\Java\Homework\JDBC\CreatedDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Aaron/Desktop/java_ee_sdk-8/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\Aaron\Desktop\Java\Homework\JDBC
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
